@@ -1,5 +1,5 @@
 # Text-to-Voice_Converter
-## Simple Text-to-Voice Converter using gTTS
+# Simple Text-to-Voice Converter using gTTS
 
 # Introduction:
 The Simple Text-to-Voice Converter project is a basic application that utilizes the Google Text-to-Speech (gTTS) library to convert user-input text into spoken audio. This project provides a user-friendly interface for inputting text and generating corresponding speech output in the English language.
