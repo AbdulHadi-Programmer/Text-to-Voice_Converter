@@ -34,9 +34,6 @@ Error Handling: Implementing robust error handling mechanisms remains a critical
 ## Graphical User Interface (GUI):
 To enhance user accessibility, consider developing a GUI that simplifies the process of inputting text, selecting language preferences, and specifying file names. A well-designed GUI can eliminate the need for users to remember the program's requirements, enhancing the overall user experience.
 
-## Audio Format Flexibility:
-While the project currently generates and saves audio in the MP3 format, offering support for multiple audio formats (e.g., WAV, OGG) would cater to users with different audio playback preferences and device compatibility requirements.
-
 ## Conclusion:
 The Simple Text-to-Voice Converter project provides a basic example of text-to-speech conversion using the gTTS library. While the current implementation requires users to manually input both the text to convert and the desired file name for audio storage, it can be enhanced through features like improved error handling, language selection, GUI integration, and support for multiple audio formats. These enhancements would collectively make the application more user-friendly, accessible, and versatile, meeting a wider range of user needs and preferences.
 
