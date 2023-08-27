@@ -20,12 +20,9 @@ The gTTS library is used to convert the input text (text) into speech. The gTTS 
 The user is prompted to enter a desired file name to save the generated speech as an MP3 audio file. The sound.save() method is used to save the generated speech as an MP3 file with the provided file name.
 
 ## Usage:
-
 Run the script.
 Enter the text you want to convert to speech when prompted.
 Enter a desired file name (without extension) to save the generated audio.
-
-## Limitations and Potential Enhancements:
 
 ## Language Support: 
 The current version of the project is designed to support text-to-speech conversion in English only. However, considering that the gTTS library offers compatibility with various languages, future enhancements could involve allowing users to input both the target language and the desired file name to accommodate international users.
