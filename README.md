@@ -24,12 +24,7 @@ Run the script.
 Enter the text you want to convert to speech when prompted.
 Enter a desired file name (without extension) to save the generated audio.
 
-## Language Support: 
-The current version of the project is designed to support text-to-speech conversion in English only. However, considering that the gTTS library offers compatibility with various languages, future enhancements could involve allowing users to input both the target language and the desired file name to accommodate international users.
-Error Handling: Implementing robust error handling mechanisms remains a critical enhancement. By incorporating checks for valid inputs, handling network connectivity issues during audio generation, and offering informative error messages, the application's reliability can be significantly improved.
 
-## Graphical User Interface (GUI):
-To enhance user accessibility, consider developing a GUI that simplifies the process of inputting text, selecting language preferences, and specifying file names. A well-designed GUI can eliminate the need for users to remember the program's requirements, enhancing the overall user experience.
 
 ## Conclusion:
 The Simple Text-to-Voice Converter project provides a basic example of text-to-speech conversion using the gTTS library. While the current implementation requires users to manually input both the text to convert and the desired file name for audio storage, it can be enhanced through features like improved error handling, language selection, GUI integration, and support for multiple audio formats. These enhancements would collectively make the application more user-friendly, accessible, and versatile, meeting a wider range of user needs and preferences.
